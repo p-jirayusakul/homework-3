@@ -1,1 +1,4 @@
-# homework-3
+- run
+```bash
+go run main.go
+```
